@@ -1,0 +1,13 @@
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\Services.dll
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\Services.pdb
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\TodoDataModels.dll
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\ToDoDataStore.dll
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\TodoDataModels.pdb
+c:\users\farid\source\repos\LearningCore\Services\bin\Debug\netcoreapp2.0\ToDoDataStore.pdb
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.dll
+c:\users\farid\source\repos\LearningCore\Services\obj\Debug\netcoreapp2.0\Services.pdb

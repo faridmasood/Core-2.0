@@ -1,0 +1,17 @@
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoWebApi.deps.json
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoWebApi.runtimeconfig.json
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoWebApi.runtimeconfig.dev.json
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoWebApi.dll
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoWebApi.pdb
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\Services.dll
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoDataModels.dll
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\ToDoDataStore.dll
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\Services.pdb
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\TodoDataModels.pdb
+C:\Users\farid\source\repos\LearningCore\LearningCore\bin\Release\netcoreapp2.0\ToDoDataStore.pdb
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.csprojResolveAssemblyReference.cache
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.AssemblyInfo.cs
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.dll
+C:\Users\farid\source\repos\LearningCore\LearningCore\obj\Release\netcoreapp2.0\TodoWebApi.pdb

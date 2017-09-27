@@ -1,0 +1,9 @@
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\bin\Release\netcoreapp2.0\TodoDataModels.deps.json
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\bin\Release\netcoreapp2.0\TodoDataModels.dll
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\bin\Release\netcoreapp2.0\TodoDataModels.pdb
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.AssemblyInfo.cs
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.dll
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.pdb
+C:\Users\farid\source\repos\LearningCore\TodoDataModels\obj\Release\netcoreapp2.0\TodoDataModels.csprojResolveAssemblyReference.cache

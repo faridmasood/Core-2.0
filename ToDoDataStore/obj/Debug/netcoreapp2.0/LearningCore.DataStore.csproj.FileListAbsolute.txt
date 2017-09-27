@@ -1,0 +1,11 @@
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\bin\Debug\netcoreapp2.0\LearningCore.DataStore.deps.json
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\bin\Debug\netcoreapp2.0\LearningCore.DataStore.dll
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\bin\Debug\netcoreapp2.0\LearningCore.DataStore.pdb
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\bin\Debug\netcoreapp2.0\LearningCore.DataModels.dll
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\bin\Debug\netcoreapp2.0\LearningCore.DataModels.pdb
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.csprojResolveAssemblyReference.cache
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.AssemblyInfoInputs.cache
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.AssemblyInfo.cs
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.dll
+C:\Users\farid\source\repos\LearningCore\ToDoDataStore\obj\Debug\netcoreapp2.0\LearningCore.DataStore.pdb
