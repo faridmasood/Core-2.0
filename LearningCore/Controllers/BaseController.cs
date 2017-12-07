@@ -8,5 +8,6 @@ namespace LearningCore.WebApi.Controllers
 {
     public class BaseController : Controller
     {
+		
     }
 }
